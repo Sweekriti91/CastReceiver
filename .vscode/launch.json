@@ -8,7 +8,7 @@
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Open receiver.html",
-            "file": "c:\\Users\\Sweeky Satpathy\\Documents\\WorkStuff\\oscars\\CustomCAF\\CastReceiver\\receiver.html"
+            "file": "c:\\Users\\Sweeky Satpathy\\Documents\\WorkStuff\\oscars\\CustomCAF\\CastReceiver\\index.html"
         }
     ]
 }
